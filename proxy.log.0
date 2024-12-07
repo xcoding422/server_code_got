@@ -1,0 +1,590 @@
+10:39:17 [信息] Using standard Java JCE cipher.
+10:39:17 [信息] Using standard Java compressor.
+10:39:17 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:20a71b0:1887
+10:39:18 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:39:18 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:39:18 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:39:18 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:39:18 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:39:18 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:39:18 [信息] Attempting to update plugin from null to ModuleVersion(build=1887, git=20a71b0)
+10:39:18 [信息] Attempting to Jenkins download module cmd_alert v1887
+10:39:20 [信息] Download complete
+10:39:20 [信息] Attempting to update plugin from null to ModuleVersion(build=1887, git=20a71b0)
+10:39:20 [信息] Attempting to Jenkins download module cmd_find v1887
+10:39:21 [信息] Download complete
+10:39:21 [信息] Attempting to update plugin from null to ModuleVersion(build=1887, git=20a71b0)
+10:39:21 [信息] Attempting to Jenkins download module cmd_list v1887
+10:39:22 [信息] Download complete
+10:39:22 [信息] Attempting to update plugin from null to ModuleVersion(build=1887, git=20a71b0)
+10:39:22 [信息] Attempting to Jenkins download module cmd_send v1887
+10:39:25 [信息] Download complete
+10:39:25 [信息] Attempting to update plugin from null to ModuleVersion(build=1887, git=20a71b0)
+10:39:25 [信息] Attempting to Jenkins download module cmd_server v1887
+10:39:27 [信息] Download complete
+10:39:27 [信息] Attempting to update plugin from null to ModuleVersion(build=1887, git=20a71b0)
+10:39:27 [信息] Attempting to Jenkins download module reconnect_yaml v1887
+10:39:28 [信息] Download complete
+10:39:29 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [警告] Forced host server pvp is not defined
+10:39:29 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:39:29 [信息] Listening on /0.0.0.0:25577
+10:39:44 [信息] Closing listener [id: 0xb51b7e6e, L:/[0:0:0:0:0:0:0:0]:25577]
+10:39:44 [信息] Closing pending connections
+10:39:44 [信息] Disconnecting 0 connections
+10:39:44 [信息] Saving reconnect locations
+10:39:44 [信息] Disabling plugins
+10:39:44 [信息] Closing IO threads
+10:40:06 [信息] Using standard Java JCE cipher.
+10:40:06 [信息] Using standard Java compressor.
+10:40:06 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:20a71b0:1887
+10:40:06 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:40:06 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:40:06 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:40:06 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:40:06 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:40:06 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:40:06 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+10:40:06 [警告] :>  
+10:40:06 [警告] :>      EAGLERCRAFTXBUNGEE WARNING:
+10:40:06 [警告] :>  
+10:40:06 [警告] :>  This plugin wasn't tested to be 'working'
+10:40:06 [警告] :>  with ANY version of BungeeCord (and forks)
+10:40:06 [警告] :>  apart from the versions listed below:
+10:40:06 [警告] :>  
+10:40:06 [警告] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+10:40:06 [警告] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+10:40:06 [警告] :>  
+10:40:06 [警告] :>  This is not a Bukkit/Spigot plugin!
+10:40:06 [警告] :>  
+10:40:06 [警告] :>  Use "-Deaglerxbungee.stfu=true" to hide
+10:40:06 [警告] :>  
+10:40:06 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+10:40:06 [信息] Loaded plugin EaglercraftXBungee version 1.3.3 by lax1dude
+10:40:06 [警告] Forced host server pvp is not defined
+10:40:06 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:06 [信息] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:40:07 [信息] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+10:40:07 [信息] [EaglercraftXBungee] Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
+10:40:10 [信息] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+10:40:10 [信息] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_auths.db
+10:40:10 [信息] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+10:40:10 [信息] Enabled plugin EaglercraftXBungee version 1.3.3 by lax1dude
+10:40:10 [信息] Listening on /0.0.0.0:25577
+10:40:11 [信息] [EaglercraftXBungee] Downloading new certificate: https://eaglercraft.com/backup.cert
+10:40:13 [信息] [EaglercraftXBungee] Downloading new certificate: https://deev.is/eagler/backup.cert
+10:40:13 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Downloads\buggee\plugins\EaglercraftXBungee\eagcert\$dl.768b8d74e78d6e63e560abe1ff1ebb2d13e56afa.cert
+10:40:13 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Downloads\buggee\plugins\EaglercraftXBungee\eagcert\$dl.a880607a687812c43d3cccd754874926eeb8d04a.cert
+10:40:24 [警告] [EaglercraftXBungee] Server icon is not a file: C:\Users\taota\Downloads\buggee\server-icon.png
+10:40:25 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56827]: Connected via websocket
+10:40:25 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56827]: Origin header is http://localhost:1945
+10:40:28 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56831]: Connected via websocket
+10:40:28 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56831]: Origin header is http://localhost:1945
+10:40:40 [信息] Closing listener [id: 0x1a417938, L:/[0:0:0:0:0:0:0:0]:25577]
+10:40:40 [信息] Closing pending connections
+10:40:40 [信息] Disconnecting 0 connections
+10:40:41 [信息] Saving reconnect locations
+10:40:41 [信息] Disabling plugins
+10:40:41 [信息] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+10:40:41 [信息] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+10:40:41 [信息] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_auths.db'
+10:40:41 [信息] Closing IO threads
+10:41:08 [信息] Using standard Java JCE cipher.
+10:41:08 [信息] Using standard Java compressor.
+10:41:08 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:20a71b0:1887
+10:41:08 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+10:41:08 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+10:41:08 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+10:41:08 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+10:41:08 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+10:41:08 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:41:08 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:08 [信息] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:08 [信息] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:08 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:08 [信息] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:08 [信息] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:08 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+10:41:08 [警告] :>  
+10:41:08 [警告] :>      EAGLERCRAFTXBUNGEE WARNING:
+10:41:08 [警告] :>  
+10:41:08 [警告] :>  This plugin wasn't tested to be 'working'
+10:41:08 [警告] :>  with ANY version of BungeeCord (and forks)
+10:41:08 [警告] :>  apart from the versions listed below:
+10:41:08 [警告] :>  
+10:41:08 [警告] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+10:41:08 [警告] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+10:41:08 [警告] :>  
+10:41:08 [警告] :>  This is not a Bukkit/Spigot plugin!
+10:41:08 [警告] :>  
+10:41:08 [警告] :>  Use "-Deaglerxbungee.stfu=true" to hide
+10:41:08 [警告] :>  
+10:41:08 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+10:41:09 [信息] Loaded plugin EaglercraftXBungee version 1.3.3 by lax1dude
+10:41:09 [警告] Forced host server pvp is not defined
+10:41:09 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:09 [信息] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:09 [信息] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:09 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:09 [信息] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:09 [信息] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+10:41:09 [严重] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+10:41:09 [信息] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+10:41:09 [信息] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+10:41:09 [信息] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+10:41:09 [信息] Enabled plugin EaglercraftXBungee version 1.3.3 by lax1dude
+10:41:09 [信息] Listening on /0.0.0.0:25577
+10:41:12 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Downloads\buggee\plugins\EaglercraftXBungee\eagcert\$dl.768b8d74e78d6e63e560abe1ff1ebb2d13e56afa.cert
+10:41:12 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Downloads\buggee\plugins\EaglercraftXBungee\eagcert\$dl.a880607a687812c43d3cccd754874926eeb8d04a.cert
+10:41:14 [警告] [EaglercraftXBungee] Server icon is not a file: C:\Users\taota\Downloads\buggee\server-icon.png
+10:41:15 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56884]: Connected via websocket
+10:41:15 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56884]: Origin header is http://localhost:1945
+10:41:15 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56884]: Logged in as 'DeevYigg8418'
+10:41:15 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+10:41:15 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+10:41:15 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+10:41:41 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56904]: Connected via websocket
+10:41:41 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56904]: Origin header is http://localhost:1945
+10:41:42 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:56904]: Logged in as 'DeevYigg8418'
+10:41:42 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+10:41:42 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+10:41:42 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+10:51:22 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:58380]: Connected via websocket
+10:51:22 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:58380]: Origin header is http://localhost:1945
+10:51:22 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:58380]: Logged in as 'DeevYigg8418'
+10:51:22 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+10:51:22 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+10:51:22 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+10:58:02 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59271]: Connected via websocket
+10:58:02 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59271]: Origin header is http://localhost:1945
+10:58:03 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59271]: Logged in as 'DeevYigg8418'
+10:58:03 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+10:58:03 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+10:58:03 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:03:34 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59766]: Connected via websocket
+11:03:34 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59766]: Origin header is http://localhost:1945
+11:03:34 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59766]: Logged in as 'DeevYigg8418'
+11:03:34 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:03:34 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:03:34 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:03:37 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59768]: Connected via websocket
+11:03:37 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59768]: Origin header is http://localhost:1945
+11:03:37 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59768]: Logged in as 'DeevYigg8418'
+11:03:37 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:03:37 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:03:37 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:03:38 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59771]: Connected via websocket
+11:03:38 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59771]: Origin header is http://localhost:1945
+11:03:38 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59771]: Logged in as 'DeevYigg8418'
+11:03:38 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:03:38 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:03:38 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:03:46 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59781]: Connected via websocket
+11:03:46 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59781]: Origin header is http://localhost:1945
+11:03:46 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59781]: Logged in as 'DeevYigg8418'
+11:03:46 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:03:46 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:03:46 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:03:59 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59791]: Connected via websocket
+11:03:59 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59791]: Origin header is http://localhost:1945
+11:03:59 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:59791]: Logged in as 'DeevYigg8418'
+11:03:59 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:03:59 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:03:59 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:24:11 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60857]: Connected via websocket
+11:24:11 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60857]: Origin header is http://localhost:1945
+11:24:11 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60857]: Logged in as 'DeevYigg8418'
+11:24:11 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:24:11 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:24:11 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:53:32 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62054]: Connected via websocket
+11:53:32 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62054]: Origin header is http://localhost:1945
+11:53:32 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62054]: Logged in as 'DeevYigg8418'
+11:53:32 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:53:32 [信息] [DeevYigg8418] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+11:53:32 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:55:47 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62116]: Connected via websocket
+11:55:47 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62116]: Origin header is http://localhost:1945
+11:55:47 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62116]: Logged in as 'DeevYigg8418'
+11:55:47 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:55:47 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+11:55:48 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use §f1.21.3
+11:55:48 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:55:48 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+11:55:53 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62120]: Connected via websocket
+11:55:53 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62120]: Origin header is http://localhost:1945
+11:55:53 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62120]: Logged in as 'DeevYigg8418'
+11:55:53 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+11:55:53 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+11:55:53 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use §f1.21.3
+11:55:53 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+11:55:53 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+12:02:41 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62742]: Connected via websocket
+12:02:41 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62742]: Origin header is http://localhost:1945
+12:02:42 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:62742]: Logged in as 'DeevYigg8418'
+12:02:42 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+12:02:42 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+12:02:42 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use §f1.21.3
+12:02:42 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+12:02:42 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+13:40:35 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:51088]: Connected via websocket
+13:40:35 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:51088]: Origin header is http://localhost:1945
+13:40:35 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:51088]: Logged in as 'DeevYigg8418'
+13:40:35 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+13:40:35 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+13:40:35 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use §f1.21.3
+13:40:35 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+13:40:35 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+13:44:04 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:52252]: Connected via websocket
+13:44:04 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:52252]: Origin header is http://localhost:1945
+13:44:04 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:52252]: Logged in as 'DeevYigg8418'
+13:44:04 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+13:44:04 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+13:44:04 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use §f1.21.3
+13:44:04 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+13:44:04 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+13:54:21 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60039]: Connected via websocket
+13:54:21 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60039]: Origin header is http://localhost:1945
+13:54:21 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60039]: Logged in as 'DeevYigg8418'
+13:54:22 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+13:54:22 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+13:54:22 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.21.1
+13:54:22 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+13:54:22 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+13:54:24 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60043]: Connected via websocket
+13:54:24 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60043]: Origin header is http://localhost:1945
+13:54:24 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60043]: Logged in as 'DeevYigg8418'
+13:54:24 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+13:54:25 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+13:54:25 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.21.1
+13:54:25 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+13:54:25 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+13:54:50 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:51823]: Connected via websocket
+13:54:50 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:51823]: Origin header is http://localhost:1945
+13:54:50 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:51823]: Logged in as 'DeevYigg8418'
+13:54:50 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+13:54:50 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+13:54:50 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.21.1
+13:54:50 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+13:54:50 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+14:00:01 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:49930]: Connected via websocket
+14:00:01 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:49930]: Origin header is http://localhost:1945
+14:00:01 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:49930]: Logged in as 'DeevYigg8418'
+14:00:01 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+14:00:01 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+14:00:02 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.21.1
+14:00:02 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+14:00:02 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+14:00:50 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:65337]: Connected via websocket
+14:00:50 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:65337]: Origin header is http://localhost:1945
+14:00:50 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:65337]: Logged in as 'DeevYigg8418'
+14:00:50 [信息] [DeevYigg8418] -> UpstreamBridge has connected
+14:00:50 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has connected
+14:00:50 [信息] [DeevYigg8418] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.21.1
+14:00:50 [信息] [DeevYigg8418] -> UpstreamBridge has disconnected
+14:00:50 [信息] [DeevYigg8418] <-> ServerConnector [lobby] has disconnected
+14:11:34 [信息] Closing listener [id: 0xc0c28bf0, L:/[0:0:0:0:0:0:0:0]:25577]
+14:11:34 [信息] Closing pending connections
+14:11:34 [信息] Disconnecting 0 connections
+14:11:35 [信息] Saving reconnect locations
+14:11:35 [信息] Disabling plugins
+14:11:35 [信息] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+14:11:35 [信息] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+14:11:35 [信息] Closing IO threads
+14:11:37 [信息] Thank you and goodbye
+14:44:14 [信息] Using standard Java JCE cipher.
+14:44:14 [信息] Using standard Java compressor.
+14:44:14 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:20a71b0:1887
+14:44:14 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:44:14 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:44:14 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:44:14 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:44:14 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:44:14 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:44:14 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+14:44:14 [警告] :>  
+14:44:14 [警告] :>      EAGLERCRAFTXBUNGEE WARNING:
+14:44:14 [警告] :>  
+14:44:14 [警告] :>  This plugin wasn't tested to be 'working'
+14:44:14 [警告] :>  with ANY version of BungeeCord (and forks)
+14:44:14 [警告] :>  apart from the versions listed below:
+14:44:14 [警告] :>  
+14:44:14 [警告] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+14:44:14 [警告] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+14:44:14 [警告] :>  
+14:44:14 [警告] :>  This is not a Bukkit/Spigot plugin!
+14:44:14 [警告] :>  
+14:44:14 [警告] :>  Use "-Deaglerxbungee.stfu=true" to hide
+14:44:14 [警告] :>  
+14:44:14 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+14:44:14 [信息] Loaded plugin EaglercraftXBungee version 1.3.3 by lax1dude
+14:44:14 [警告] Forced host server pvp is not defined
+14:44:14 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [信息] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+14:44:14 [严重] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+14:44:14 [信息] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+14:44:14 [信息] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+14:44:14 [信息] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+14:44:14 [信息] Enabled plugin EaglercraftXBungee version 1.3.3 by lax1dude
+14:44:14 [信息] Listening on /0.0.0.0:25577
+14:44:18 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Downloads\buggee\plugins\EaglercraftXBungee\eagcert\$dl.768b8d74e78d6e63e560abe1ff1ebb2d13e56afa.cert
+14:44:18 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Downloads\buggee\plugins\EaglercraftXBungee\eagcert\$dl.a880607a687812c43d3cccd754874926eeb8d04a.cert
+14:50:26 [警告] [EaglercraftXBungee] Server icon is not a file: C:\Users\taota\Downloads\buggee\server-icon.png
+14:50:27 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60725]: Connected via websocket
+14:50:27 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60725]: Origin header is http://localhost:1945
+14:50:28 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60725]: Logged in as 'ViggDeev1913'
+14:50:28 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+14:50:28 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+14:50:55 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+14:50:55 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+14:50:58 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60739]: Connected via websocket
+14:50:58 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60739]: Origin header is http://localhost:1945
+14:50:58 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60739]: Logged in as 'ViggDeev1913'
+14:50:58 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+14:50:58 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+14:51:13 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+14:51:13 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+14:51:21 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60755]: Connected via websocket
+14:51:21 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60755]: Origin header is http://localhost:1945
+14:51:21 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:60755]: Logged in as 'ViggDeev1913'
+14:51:21 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+14:51:21 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+14:53:19 [信息] [ViggDeev1913] disconnected with: §f§cProxy lost connection to server.
+14:53:19 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+14:53:19 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+14:53:45 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61171]: Connected via websocket
+14:53:45 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61171]: Origin header is http://localhost:1945
+14:53:45 [信息] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1]:61171]: Logged in as 'ViggDeev1913'
+14:53:45 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+14:53:45 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+15:04:38 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+15:04:38 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+15:06:14 [信息] [EaglercraftXBungee] [/192.168.31.239:61553]: Connected via websocket
+15:06:14 [信息] [EaglercraftXBungee] [/192.168.31.239:61553]: Origin header is http://localhost:1945
+15:06:14 [信息] [EaglercraftXBungee] [/192.168.31.239:61553]: Logged in as 'ViggDeev1913'
+15:06:14 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+15:06:14 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+15:06:29 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+15:06:29 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+15:13:09 [信息] [EaglercraftXBungee] [/192.168.31.5:56408]: Connected via websocket
+15:13:10 [信息] [EaglercraftXBungee] [/192.168.31.5:56408]: Origin header is http://192.168.31.239:1945
+15:13:10 [信息] [EaglercraftXBungee] [/192.168.31.5:56408]: Logged in as 'DarverDeev0454'
+15:13:10 [信息] [DarverDeev0454] -> UpstreamBridge has connected
+15:13:10 [信息] [DarverDeev0454] <-> ServerConnector [lobby] has connected
+15:13:21 [信息] [EaglercraftXBungee] [/192.168.31.239:61803]: Connected via websocket
+15:13:21 [信息] [EaglercraftXBungee] [/192.168.31.239:61803]: Origin header is http://localhost:1945
+15:13:21 [信息] [EaglercraftXBungee] [/192.168.31.239:61803]: Logged in as 'ViggDeev1913'
+15:13:21 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+15:13:21 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+15:13:36 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+15:13:36 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+15:13:46 [信息] [EaglercraftXBungee] [/192.168.31.239:61818]: Connected via websocket
+15:13:46 [信息] [EaglercraftXBungee] [/192.168.31.239:61818]: Origin header is http://localhost:1945
+15:13:46 [信息] [EaglercraftXBungee] [/192.168.31.239:61818]: Logged in as 'ViggDeev1913'
+15:13:46 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+15:13:46 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+15:29:34 [信息] [DarverDeev0454] disconnected with: §f§cProxy lost connection to server.
+15:29:34 [信息] [DarverDeev0454] <-> DownstreamBridge <-> [lobby] has disconnected
+15:29:34 [信息] [DarverDeev0454] -> UpstreamBridge has disconnected
+15:29:47 [信息] [EaglercraftXBungee] [/192.168.31.5:40608]: Connected via websocket
+15:29:47 [信息] [EaglercraftXBungee] [/192.168.31.5:40608]: Origin header is http://192.168.31.239:1945
+15:29:47 [信息] [EaglercraftXBungee] [/192.168.31.5:40608]: Logged in as 'DarverDeev0454'
+15:29:47 [信息] [DarverDeev0454] -> UpstreamBridge has connected
+15:29:47 [信息] [DarverDeev0454] <-> ServerConnector [lobby] has connected
+15:30:02 [信息] [DarverDeev0454] -> UpstreamBridge has disconnected
+15:30:02 [信息] [DarverDeev0454] <-> DownstreamBridge <-> [lobby] has disconnected
+15:30:06 [信息] [EaglercraftXBungee] [/192.168.31.5:42754]: Connected via websocket
+15:30:06 [信息] [EaglercraftXBungee] [/192.168.31.5:42754]: Origin header is http://192.168.31.239:1945
+15:30:06 [信息] [EaglercraftXBungee] [/192.168.31.5:42754]: Logged in as 'DarverDeev0454'
+15:30:06 [信息] [DarverDeev0454] -> UpstreamBridge has connected
+15:30:06 [信息] [DarverDeev0454] <-> ServerConnector [lobby] has connected
+15:30:21 [信息] [DarverDeev0454] -> UpstreamBridge has disconnected
+15:30:21 [信息] [DarverDeev0454] <-> DownstreamBridge <-> [lobby] has disconnected
+15:33:33 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+15:33:33 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+15:33:49 [信息] Closing listener [id: 0x304d69ed, L:/[0:0:0:0:0:0:0:0]:25577]
+15:33:49 [信息] Closing pending connections
+15:33:49 [信息] Disconnecting 0 connections
+15:33:50 [信息] Saving reconnect locations
+15:33:50 [信息] Disabling plugins
+15:33:50 [信息] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+15:33:50 [信息] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+15:33:50 [信息] Closing IO threads
+15:33:52 [信息] Thank you and goodbye
+19:49:57 [信息] Using standard Java JCE cipher.
+19:49:57 [信息] Using standard Java compressor.
+19:49:57 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:20a71b0:1887
+19:49:58 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+19:49:58 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+19:49:58 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+19:49:58 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+19:49:58 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+19:49:58 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:49:58 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+19:49:58 [警告] :>  
+19:49:58 [警告] :>      EAGLERCRAFTXBUNGEE WARNING:
+19:49:58 [警告] :>  
+19:49:58 [警告] :>  This plugin wasn't tested to be 'working'
+19:49:58 [警告] :>  with ANY version of BungeeCord (and forks)
+19:49:58 [警告] :>  apart from the versions listed below:
+19:49:58 [警告] :>  
+19:49:58 [警告] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+19:49:58 [警告] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+19:49:58 [警告] :>  
+19:49:58 [警告] :>  This is not a Bukkit/Spigot plugin!
+19:49:58 [警告] :>  
+19:49:58 [警告] :>  Use "-Deaglerxbungee.stfu=true" to hide
+19:49:58 [警告] :>  
+19:49:58 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+19:49:58 [信息] Loaded plugin EaglercraftXBungee version 1.3.3 by lax1dude
+19:49:58 [警告] Forced host server pvp is not defined
+19:49:58 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [信息] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+19:49:58 [严重] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+19:49:58 [信息] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+19:49:58 [信息] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+19:49:58 [信息] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+19:49:58 [信息] Enabled plugin EaglercraftXBungee version 1.3.3 by lax1dude
+19:49:58 [信息] Listening on /0.0.0.0:25577
+19:50:01 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Desktop\mcserver\bungee\plugins\EaglercraftXBungee\eagcert\$dl.768b8d74e78d6e63e560abe1ff1ebb2d13e56afa.cert
+19:50:01 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Desktop\mcserver\bungee\plugins\EaglercraftXBungee\eagcert\$dl.a880607a687812c43d3cccd754874926eeb8d04a.cert
+19:54:34 [警告] [EaglercraftXBungee] Server icon is not a file: C:\Users\taota\Desktop\mcserver\bungee\server-icon.png
+19:54:36 [信息] [EaglercraftXBungee] [/192.168.31.239:56945]: Connected via websocket
+19:54:36 [信息] [EaglercraftXBungee] [/192.168.31.239:56945]: Origin header is http://localhost:1945
+19:54:36 [信息] [EaglercraftXBungee] [/192.168.31.239:56945]: Logged in as 'ViggDeev1913'
+19:54:36 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+19:54:37 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+20:06:28 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+20:06:28 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+20:23:30 [信息] [EaglercraftXBungee] [/192.168.31.239:58493]: Connected via websocket
+20:23:30 [信息] [EaglercraftXBungee] [/192.168.31.239:58493]: Origin header is http://localhost:1945
+20:23:30 [信息] [EaglercraftXBungee] [/192.168.31.239:58493]: Logged in as 'ViggDeev1913'
+20:23:30 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+20:23:30 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+20:23:45 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+20:23:45 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+20:27:38 [信息] [EaglercraftXBungee] [/192.168.31.239:58570]: Connected via websocket
+20:27:38 [信息] [EaglercraftXBungee] [/192.168.31.239:58570]: Origin header is http://localhost:1945
+20:27:38 [信息] [EaglercraftXBungee] [/192.168.31.239:58570]: Logged in as 'ViggDeev1913'
+20:27:38 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+20:27:38 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+11:33:58 [信息] Using standard Java JCE cipher.
+11:33:58 [信息] Using standard Java compressor.
+11:33:58 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:20a71b0:1887
+11:33:59 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+11:33:59 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+11:33:59 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+11:33:59 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+11:33:59 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+11:33:59 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:33:59 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+11:33:59 [警告] :>  
+11:33:59 [警告] :>      EAGLERCRAFTXBUNGEE WARNING:
+11:33:59 [警告] :>  
+11:33:59 [警告] :>  This plugin wasn't tested to be 'working'
+11:33:59 [警告] :>  with ANY version of BungeeCord (and forks)
+11:33:59 [警告] :>  apart from the versions listed below:
+11:33:59 [警告] :>  
+11:33:59 [警告] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:4886c4b:1881
+11:33:59 [警告] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+11:33:59 [警告] :>  
+11:33:59 [警告] :>  This is not a Bukkit/Spigot plugin!
+11:33:59 [警告] :>  
+11:33:59 [警告] :>  Use "-Deaglerxbungee.stfu=true" to hide
+11:33:59 [警告] :>  
+11:33:59 [警告] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+11:33:59 [信息] Loaded plugin EaglercraftXBungee version 1.3.3 by lax1dude
+11:33:59 [严重] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+11:33:59 [警告] Forced host server pvp is not defined
+11:33:59 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:20a71b0:1887 by SpigotMC
+11:33:59 [信息] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+11:34:00 [信息] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+11:34:00 [信息] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+11:34:00 [信息] Enabled plugin EaglercraftXBungee version 1.3.3 by lax1dude
+11:34:00 [信息] Listening on /0.0.0.0:25577
+11:34:05 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Desktop\mcserver\bungee\plugins\EaglercraftXBungee\eagcert\$dl.768b8d74e78d6e63e560abe1ff1ebb2d13e56afa.cert
+11:34:05 [信息] [EaglercraftXBungee] Loaded certificate: C:\Users\taota\Desktop\mcserver\bungee\plugins\EaglercraftXBungee\eagcert\$dl.a880607a687812c43d3cccd754874926eeb8d04a.cert
+11:34:24 [警告] [EaglercraftXBungee] Server icon is not a file: C:\Users\taota\Desktop\mcserver\bungee\server-icon.png
+11:34:25 [信息] [EaglercraftXBungee] [/192.168.31.239:54514]: Connected via websocket
+11:34:25 [信息] [EaglercraftXBungee] [/192.168.31.239:54514]: Origin header is http://localhost:1945
+11:34:25 [信息] [EaglercraftXBungee] [/192.168.31.239:54514]: Logged in as 'ViggDeev1913'
+11:34:25 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+11:34:25 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+11:35:53 [警告] Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 69ms to process event PlayerDisconnectEvent(player=ViggDeev1913)!
+11:35:53 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+11:35:53 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+11:49:21 [信息] [EaglercraftXBungee] [/192.168.31.239:62101]: Connected via websocket
+11:49:21 [信息] [EaglercraftXBungee] [/192.168.31.239:62101]: Origin header is http://localhost:1945
+11:49:21 [信息] [EaglercraftXBungee] [/192.168.31.239:62101]: Logged in as 'ViggDeev1913'
+11:49:21 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+11:49:21 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+12:01:36 [信息] [ViggDeev1913] disconnected with: §f§cProxy lost connection to server.
+12:01:36 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+12:01:36 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+12:04:39 [信息] [EaglercraftXBungee] [/192.168.31.239:54180]: Connected via websocket
+12:04:39 [信息] [EaglercraftXBungee] [/192.168.31.239:54180]: Origin header is http://localhost:1945
+12:04:39 [信息] [EaglercraftXBungee] [/192.168.31.239:54180]: Logged in as 'ViggDeev1913'
+12:04:39 [信息] [ViggDeev1913] -> UpstreamBridge has connected
+12:04:39 [信息] [ViggDeev1913] <-> ServerConnector [lobby] has connected
+12:14:18 [信息] [ViggDeev1913] -> UpstreamBridge has disconnected
+12:14:18 [信息] [ViggDeev1913] <-> DownstreamBridge <-> [lobby] has disconnected
+13:01:13 [信息] Closing listener [id: 0xcd909cc1, L:/[0:0:0:0:0:0:0:0]:25577]
+13:01:13 [信息] Closing pending connections
+13:01:13 [信息] Disconnecting 0 connections
+13:01:14 [信息] Saving reconnect locations
+13:01:14 [信息] Disabling plugins
+13:01:14 [信息] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+13:01:14 [信息] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+13:01:14 [信息] Closing IO threads
+13:01:16 [信息] Thank you and goodbye
